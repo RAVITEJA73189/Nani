@@ -89,5 +89,6 @@
 	<classpathentry kind="lib" path="D:/Jar files/selenium-java-4.8.3/selenium-support-4.8.3.jar"/>
 	<classpathentry kind="lib" path="D:/Jar files/selenium-java-4.8.3/selenium-support-4.8.3-sources.jar"/>
 	<classpathentry kind="lib" path="D:/Testng _Jarfile/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="D:/Log4j  jar file/log4j.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
